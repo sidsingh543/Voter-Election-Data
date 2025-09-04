@@ -1,2 +1,2 @@
 # Voter-Election-Data
-Analyzed voter behavior across age, county, ethnicity, and household size; visualized trends using choropleth maps and turnout by age group.
+Performed large-scale analysis of voter turnout patterns using Databricks, BigQuery, and PySpark on election results data. Conducted ETL pipelines to clean and integrate millions of voter records into a cloud-hosted database. Analyzed voter behavior across age, county, ethnicity, and household size; visualized trends using choropleth maps and turnout by age group. Built predictive and unsupervised learning models to study turnout drivers and clustering patterns.
